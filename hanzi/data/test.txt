@@ -1,0 +1,2 @@
+{"character":"漓","DEFINITION":"DRIPPING WATER; A RIVER IN GUANGXI PROVINCE","PINYIN":["LÍ"],"DECOMPOSITION":"⿰氵离","ETYMOLOGY":{"TYPE":"PICTOPHONETIC","PHONETIC":"离","SEMANTIC":"氵","HINT":"WATER"},"RADICAL":"氵","MATCHES":[[0],[0],[0],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1]]}
+{"character":"漢","definition":"Chinese people; Chinese language","pinyin":["hàn"],"decomposition":"⿰氵堇","etymology":{"type":"ideographic","hint":"The Han, river"},"radical":"氵","matches":[[0],[0],[0],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1]]}
